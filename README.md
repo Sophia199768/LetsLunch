@@ -32,10 +32,13 @@ docker-compose up запустит бд и админку("http://localhost:5050
 ## Приложение:
 1. Окно регистрации
 <img width="865" height="620" alt="Регистрация" src="https://github.com/user-attachments/assets/80cb87df-37ed-41b4-81a9-ca436bb62e18" />
+
 2. Вход
    <img width="518" height="604" alt="Вход" src="https://github.com/user-attachments/assets/413f1bf6-a77b-4f5b-96b8-eca77d508f39" />
+
 3. Главная страница, на которой есть заведения которые можно выбрать для встречи
 <img width="874" height="354" alt="Главная страница" src="https://github.com/user-attachments/assets/58772f45-b82b-4976-b5df-dcd2a1701d0e" />
+
 4. Окно для создания встречи
    <img width="841" height="467" alt="Создание встречи" src="https://github.com/user-attachments/assets/a165e8c4-ec95-4044-9bca-4ab353314394" />
 
