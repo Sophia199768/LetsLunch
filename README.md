@@ -28,3 +28,7 @@ export GOPATH="$HOME/go"
 
 если нет docker-compose- устанавливаем и его
 docker-compose up запустит бд и админку("http://localhost:5050:80")
+
+## Приложение:
+1. Окно регистрации
+<img width="865" height="620" alt="Регистрация" src="https://github.com/user-attachments/assets/80cb87df-37ed-41b4-81a9-ca436bb62e18" />
