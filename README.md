@@ -1,11 +1,13 @@
 # foodate
 
-
 ## Проект:
 Веб-приложение для поиска пары для совместного посещения ресторанов. Пользователи могут создавать встречи, указывая ресторан, дату и время, а другие — присоединяться к ним.
 
+Проблематика:
+Более 26% российских первокурсников испытывают трудности общении со сверстниками, а учитывая огромную загруженность в университете с такой проблемой сталкивается любой студент
+
 ## Инструменты:
-1) Backend: GO
+1) Backend: GO, Docker
 2) Frontend: JavaScript, HTML, CSS
 
 ## Инструкция по запуску:
@@ -34,13 +36,16 @@ docker-compose up запустит бд и админку("http://localhost:5050
 <img width="865" height="620" alt="Регистрация" src="https://github.com/user-attachments/assets/80cb87df-37ed-41b4-81a9-ca436bb62e18" />
 
 2. Вход
-   <img width="518" height="604" alt="Вход" src="https://github.com/user-attachments/assets/413f1bf6-a77b-4f5b-96b8-eca77d508f39" />
 
-3. Главная страница, на которой есть заведения которые можно выбрать для встречи
+<img width="518" height="604" alt="Вход" src="https://github.com/user-attachments/assets/413f1bf6-a77b-4f5b-96b8-eca77d508f39" />
+
+4. Главная страница, на которой есть заведения которые можно выбрать для встречи
+
 <img width="874" height="354" alt="Главная страница" src="https://github.com/user-attachments/assets/58772f45-b82b-4976-b5df-dcd2a1701d0e" />
 
-4. Окно для создания встречи
-   <img width="841" height="467" alt="Создание встречи" src="https://github.com/user-attachments/assets/a165e8c4-ec95-4044-9bca-4ab353314394" />
+5. Окно для создания встречи
+
+<img width="841" height="467" alt="Создание встречи" src="https://github.com/user-attachments/assets/a165e8c4-ec95-4044-9bca-4ab353314394" />
 
    
 
